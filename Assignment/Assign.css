@@ -1,0 +1,61 @@
+#main{
+	border:1px solid #000;
+	width: 25%;
+	height: 400px;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	left: 30%;
+	top:100px;
+	
+}
+
+#profile{
+	border:1px solid #000;
+	width: 100%;
+	height: 250px;
+	background: #000;
+}
+.main_circle{
+	border:3px solid #fff;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	left: 95px;
+	top: 20px;
+	border-radius: 100%;
+}
+
+#cirlce{
+	border:2px solid #000; width: 10px; height: 10px;
+}
+
+#inner{
+	border:1px solid #fff;
+	width: 70px;
+	height: 70px;
+	position: relative;
+	left: 40px;
+	top: 15px;
+	border-radius: 100%;
+	background: #fff;
+}
+
+#userName{
+	color: #fff; font-weight: bold;
+	position: relative;
+	left: 35px;
+	top: 70px;
+}
+
+
+.card{
+    
+    color:black;
+    margin: 10px;
+    height: 85;
+    width: 350px;
+    border-radius: 2px;
+    display: flex;
+
+}  
